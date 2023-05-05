@@ -1,4 +1,4 @@
-# Transfer_Learning_NLP_TensorFlow_Hub
+# Transfer Learning NLP TensorFlow Hub
 mini projet personell réalisé en juillet 2022.
 
 Le mini-projet reprend comment utiliser divers modèles NLP text embedding pré-entraînés de TensorFlow et TensorFlow-hub.
